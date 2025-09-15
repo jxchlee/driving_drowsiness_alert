@@ -1,8 +1,8 @@
 # driving_drowsiness_alert
 
-![main page](https://github.com/jxchlee/driving_drowsiness_alert/blob/main/assets/Screenshot_20250616_103534_%20.jpg?raw=true)
+<img src="https://github.com/jxchlee/driving_drowsiness_alert/blob/main/assets/Screenshot_20250616_103534_%20.jpg?raw=true" alt="졸음 감지 앱 화면" width="300"/>
 
-![alert image](https://github.com/jxchlee/driving_drowsiness_alert/blob/main/assets/Screenshot_20250616_104135_Gallery.jpg?raw=true)
+<img src="https://github.com/jxchlee/driving_drowsiness_alert/blob/main/assets/Screenshot_20250616_104135_Gallery.jpg?raw=true" alt="경고" width="300"/>
 
 미디어파이브(MediaPipe)를 이용한 얼굴인식 기술을 활용하여 졸음운전 여부를 분석하고 경고하는 어플리케이션 개발 프로젝트 입니다.
 
@@ -28,13 +28,13 @@
 
 ### 1. EAR 수치 기록
 
-![record](https://github.com/jxchlee/driving_drowsiness_alert/blob/main/assets/Screenshot_20250616_103628_%20.jpg?raw=true)
+<img src="https://github.com/jxchlee/driving_drowsiness_alert/blob/main/assets/Screenshot_20250616_103628_%20.jpg?raw=true" alt="record" width="300"/>
 
 - 주행 중의 EAR 값을 기록하여 본인의 운전 상태를 점검할 수 있도록 하였습니다.
 
 ### 2. 개인 최적화 설정
 
-![setting](https://raw.githubusercontent.com/jxchlee/driving_drowsiness_alert/refs/heads/main/assets/Screenshot_20250616_103634_%20.jpg)
+<img src="https://raw.githubusercontent.com/jxchlee/driving_drowsiness_alert/refs/heads/main/assets/Screenshot_20250616_103634_%20.jpg" alt="경고" width="300"/>
 
 - 개인마다 차이가 있는 눈 크기에 맞게 EAR 값을 커스텀할 수 있고 눈 감김 시간에 대한 임계치를 조절하여 경고 민감도를 컨트롤 할 수 있습니다.
 
