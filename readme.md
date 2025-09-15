@@ -1,0 +1,51 @@
+# driving_drowsiness_alert
+
+
+this is driving drowsiness alert application(android) with mediapipe.
+
+## 📦 시작하기
+
+이 섹션은 다른 사람들이 프로젝트를 **실행**할 수 있는 방법을 안내합니다.
+
+### 1. 의존성 설치
+
+- Android Studio에서 프로젝트를 열면 필요한 **Gradle 의존성**이 자동으로 다운로드됩니다.
+- 또는 커맨드라인에서 다음 명령어를 사용하여 수동으로 빌드를 할 수 있습니다.
+
+  ./gradlew build
+
+### 2. 로컬 설정
+
+`local.properties` 파일을 **프로젝트 루트 디렉토리**에 생성해야 합니다. 아래와 같은 내용으로 작성해주세요:
+
+    sdk.dir=/path/to/your/android/sdk
+
+## 🚀 사용법
+
+어플리케이션을 **실행**하는 방법에 대해 설명합니다.
+
+1. **실행**: 본 프로젝트에서 사용하는 mediapipe는 ARM CPU 기반 기기에서만 작동하기 때문에 에뮬레이터로 실행이 되지 않는 점 참고바랍니다.
+2. **기타 기능 설명**: 본 어플리케이션은 사용자의 편의성을 위한 다양한 기능을 제공합니다.
+
+### 1. EAR 수치 기록
+
+< 사진 위치 >
+
+- 주행 중의 EAR 값을 기록하여 본인의 운전 상태를 점검할 수 있도록 하였습니다.
+
+### 2. 개인 최적화 설정
+
+< 사진 위치 >
+
+- 개인마다 차이가 있는 눈 크기에 맞게 EAR 값을 커스텀할 수 있고 눈 감김 시간에 대한 임계치를 조절하여 경고 민감도를 컨트롤 할 수 있습니다. 
+
+
+## 📝 라이선스
+
+이 프로젝트는 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)을 따릅니다. 라이선스에 대한 더 자세한 정보는 [LICENSE](./LICENSE) 파일을 확인해주세요.
+
+
+## 👩‍💻 작성자
+
+- **[Eunsang Lee](https://github.com/jxchlee)**
+
