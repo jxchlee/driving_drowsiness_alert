@@ -1,11 +1,13 @@
 # driving_drowsiness_alert
 
 
-this is driving drowsiness alert application(android) with mediapipe.
+
+
+
+미디어파이브(MediaPipe)를 이용한 얼굴인식 기술을 활용하여 졸음운전 여부를 분석하고 경고하는 어플리케이션 개발 프로젝트 입니다.
 
 ## 📦 시작하기
 
-이 섹션은 다른 사람들이 프로젝트를 **실행**할 수 있는 방법을 안내합니다.
 
 ### 1. 의존성 설치
 
@@ -22,8 +24,6 @@ this is driving drowsiness alert application(android) with mediapipe.
 
 ## 🚀 사용법
 
-어플리케이션을 **실행**하는 방법에 대해 설명합니다.
-
 1. **실행**: 본 프로젝트에서 사용하는 mediapipe는 ARM CPU 기반 기기에서만 작동하기 때문에 에뮬레이터로 실행이 되지 않는 점 참고바랍니다.
 2. **기타 기능 설명**: 본 어플리케이션은 사용자의 편의성을 위한 다양한 기능을 제공합니다.
 
@@ -35,7 +35,7 @@ this is driving drowsiness alert application(android) with mediapipe.
 
 ### 2. 개인 최적화 설정
 
-< 사진 위치 >
+
 
 - 개인마다 차이가 있는 눈 크기에 맞게 EAR 값을 커스텀할 수 있고 눈 감김 시간에 대한 임계치를 조절하여 경고 민감도를 컨트롤 할 수 있습니다. 
 
